@@ -1,14 +1,3 @@
-# Explicación proporcionalidad directa
-
-**User:** Ibarra Riffo (losibarrariffo@gmail.com)  
-**Created:** 8/24/2025 19:47  
-**Updated:** 8/24/2025 19:48  
-**Exported:** 8/24/2025 19:50  
-**Link:** [https://chatgpt.com/g/g-p-68470fbe0d5c8191bf1e2f44a9a2957d-lucas/c/68aba485-fb88-832d-95a7-79416319743f](https://chatgpt.com/g/g-p-68470fbe0d5c8191bf1e2f44a9a2957d-lucas/c/68aba485-fb88-832d-95a7-79416319743f)  
-
-## Response:
-Pensó durante 29s
-
 Voy a crear una explicación corta, de unos 5 minutos, adaptada al sistema educativo de Chile. Usaré pasos sencillos para representar la información, como tablas y gráficos, e incluiré ejemplos paso a paso. También puedo incluir un diagrama ASCII o tablas. Mantendré el tono informal y natural, como piden.
 
 Voy a crear dos ejemplos con soluciones detalladas sobre proporcionalidad directa. Usaré la fórmula y = kx, explicando cómo hallar el valor de k y completar tablas. Los ejemplos incluyen situaciones cotidianas como el costo de panes o la cantidad de ingredientes en una receta. También usaré representación con líneas dobles y gráficos. Mostraré cada paso desde la identificación hasta verificar la respuesta.
@@ -108,8 +97,3 @@ Mini-plantilla para el alumno (10 s final)
 4.  Verifica unidades y sentido.
 
 ¡Con esto puedes resolver cualquier problema verbal de **proporcionalidad directa** en pocos pasos y mostrando tu **modelo** claramente!
-
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)
